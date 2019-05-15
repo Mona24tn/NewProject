@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="software/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="software/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="software/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Desktop/Test Yantra training/extentreport jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mona/Downloads/jsoup-1.12.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
